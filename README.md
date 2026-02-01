@@ -150,13 +150,5 @@ If the HTML parsing fails, try:
   - chunking settings (chunk size/overlap)
   - date/time of run
 
----
 
-## Citation
-If you reuse this code, please cite the associated thesis (add your final bibliographic reference here).
-
----
-
-## License
-Add a license if you plan to share this repository publicly (e.g., MIT).
 
