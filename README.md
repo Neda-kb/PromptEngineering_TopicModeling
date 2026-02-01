@@ -21,7 +21,6 @@
 ├─ Prompt-space Factorisation.ipynb    # Factorised prompt pipeline
 ├─ Ablation Design.ipynb               # Prompt component ablations (2^4 variants)
 ├─ Evaluation.ipynb                    # Metrics: NPMI / C_V / distinctness / judge
-├─ Visualize.ipynb                     # Figures (e.g., ablation design matrix)
 │
 ├─ Load_Data.py                        # HTML loader -> LangChain Documents
 ├─ Chunking.py                         # Recursive chunking (LangChain splitters)
