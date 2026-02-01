@@ -1,6 +1,6 @@
 # Enhanced Prompt Engineering for GPT-based Topic Modeling in Finance
 
-This repository contains the code and notebooks used in a master’s thesis project on **prompt engineering for GPT-based topic modeling** on financial documents (SEC 10‑K HTML filings). The workflow covers:
+ The workflow covers:
 
 - Downloading SEC filings (EDGAR) as HTML
 - Loading + chunking documents
@@ -9,7 +9,6 @@ This repository contains the code and notebooks used in a master’s thesis proj
   - **Prompt‑space factorisation (default)**
   - **Ablation design** (Role / Rubric+Constraints / Exemplars / Delimiter)
 - Evaluating topic quality (coherence, distinctness, LLM-as-judge clarity)
-- Visualising results
 
 ---
 
