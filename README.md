@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ```bash
 python -m venv .venv
 source .venv/bin/activate   # macOS/Linux
-# .venv\Scripts\activate  # Windows PowerShell
+
 ```
 
 ### 2) Install Python dependencies
