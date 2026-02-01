@@ -125,12 +125,6 @@ Computes:
 - **Distinctness ratio** (unique keywords / total keyword slots)
 - Optional: **LLM-as-judge clarity** scoring (if enabled in notebook)
 
-### Step 6 — Visualisation
-Run: **`Visualize.ipynb`**
-
-- Generates plots (e.g., ablation design matrix)
-- Saves to `Figures/Python-charts/`
-
 ---
 
 ## Notes on configuration
